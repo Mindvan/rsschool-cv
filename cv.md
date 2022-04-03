@@ -10,7 +10,7 @@ My name is Ivan and I am a third-year student at  Peter the Great St. Petersburg
 * JetBrain's WebStorm, Microsoft's VS Code
 * GitHub, Git
 * Adobe Products: Photoshop 2021, Illustrator 2021
-===
+
 ## Code example
 Your job is to implement head, tail, init, and last functions in Java Script. Make sure it doesn't edit the array; that would cause problems!
 
