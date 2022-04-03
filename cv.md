@@ -14,7 +14,7 @@ My name is Ivan and I am a third-year student at  Peter the Great St. Petersburg
 ## Codewars
 Your job is to implement head, tail, init, and last functions in Java Script. Make sure it doesn't edit the array; that would cause problems!
 
-Solution:
+Solution
 
 ```
 function head(arr) {
