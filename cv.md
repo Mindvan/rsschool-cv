@@ -11,7 +11,7 @@ My name is Ivan and I am a third-year student at  Peter the Great St. Petersburg
 * GitHub, Git
 * Adobe Products: Photoshop 2021, Illustrator 2021
 ===
-## Codewars
+## Code example
 Your job is to implement head, tail, init, and last functions in Java Script. Make sure it doesn't edit the array; that would cause problems!
 
 Solution:
