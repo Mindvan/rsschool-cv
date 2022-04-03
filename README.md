@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[LINK](https://mindvan.github.io/rsschool-cv/cv)
+[LINK](https://mindvan.github.io/rsschool-cv)
