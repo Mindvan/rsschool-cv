@@ -38,10 +38,10 @@ No experience yet. But I am working on that!
 
 ## Education
 ### University
-* Peter the Great St. Petersburg Polytechnic University - in progress
+Peter the Great St. Petersburg Polytechnic University - in progress
 ### Programs
-* RS Schools' «JavaScript/Front-end. Stage 1» course - in progress
-===
+RS Schools' «JavaScript/Front-end. Stage 1» course - in progress
+
 ## Languages
 * Russian - as native speaker
 * English - B2 (I edited the videos for English audience)
