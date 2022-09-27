@@ -1,0 +1,90 @@
+*, *::after, *::before{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url("../font/SourceSansPro-Regular.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url("../font/SourceSansPro-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+}
+
+ul, li {
+    list-style-position: inside;
+}
+
+body {
+    font-family: 'SourceSansPro', sans-serif;
+}
+
+section {
+    padding-bottom: 20px;
+}
+
+.list-reset {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.container{
+    max-width: 1140px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+.header-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.profile-pic {
+    display: inline-block;
+}
+
+.profile-pic-img {
+    object-fit:cover;
+    width:150px;
+    height:150px;
+    object-position: right;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.me {
+    padding-left: 20px;
+    align-items: center;
+}
+
+.me-name {
+    padding-bottom: 10px;
+}
+
+.contact-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.contact-item {
+    padding-right: 40px;
+}
+
+.contact-item:last-child {
+    padding-right: 0;
+}
